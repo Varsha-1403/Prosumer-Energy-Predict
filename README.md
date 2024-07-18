@@ -31,6 +31,9 @@ Random forest
 linear regression
 Auto regression
 
+# Notebook
+* [Link to Notebook 1](client_electric_gas.ipynb)
+
 ## Requirements
 ```
 python3.12.3 -m venv predictenergy.venv
