@@ -32,7 +32,7 @@ linear regression
 Auto regression
 
 # Notebook
-* [Link to Notebook 1](client_electric_gas.ipynb)
+* [Link to Notebook 1](/Notebook/client_electric_gas.ipynb)
 
 ## Requirements
 ```
