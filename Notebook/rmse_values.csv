@@ -1,0 +1,5 @@
+Model,RMSE
+Linear Regression,831.756
+Auto Regression,905.652
+Random Forest,666.104
+SARIMA,750.456
