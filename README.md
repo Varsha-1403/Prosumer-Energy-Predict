@@ -24,11 +24,13 @@ To get started with the challenge, performing Exploratory Data Analysis (EDA) is
 By thoroughly understanding the data through EDA, we are able build more accurate and robust predictive models.
  
 # Model
- 
-We used models like Linear Regression, Auto Regression, SARIMA and Random Forest.
- 
-After comparing different models on different combinations of datsets we are able to conclude that Random Forest works the best.
- 
+
+The predictive model is built using machine learning algorithms to accurately forecast energy usage and production of prosumers. The model utilizes features such as historical energy data, weather conditions, and other relevant factors.
+
+Random forest
+linear regression
+Auto regression
+
 # Notebook
 * [Client, electricity prices and gas prices EDA and Model](/Notebook/client_electric_gas.ipynb)
 * [historical weather and weather stations EDA](/Notebook/historical-weatherEDA.ipynb)
